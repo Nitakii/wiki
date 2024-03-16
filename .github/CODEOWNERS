@@ -1,6 +1,7 @@
 # The following this specifies the default owner for all files:
-*		@motrellin
+*		@motrellin @RobZenFL
 
+/.github/ @motrellin
 .gitignore @motrellin
 Gemfile @motrellin
 Gemfile.lock @motrellin

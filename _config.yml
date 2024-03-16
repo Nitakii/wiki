@@ -11,3 +11,8 @@ aux_links:
 aux_links_new_tab: true
 
 color_scheme: dark
+
+
+collections:
+  team_members:
+    name: Team Members

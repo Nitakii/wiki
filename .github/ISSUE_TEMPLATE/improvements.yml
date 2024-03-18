@@ -1,0 +1,15 @@
+name: Wiki Improvement
+description: Schlage eine Verbesserung für das Wiki vor!
+title: "[IMPROVEMENT] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: location
+    attributes:
+      label: Grobbeschreibung
+      description: "Möchtest du etwas neues ergänzen oder eine bestehende Seite im Wiki erweitern? Falls Letzteres: Welche Seite?"
+  - type: textarea
+    id: description
+    attributes:
+      label: Beschreibung
+      description: "Beschreibe deinen Verbesserungsvorschlag!"

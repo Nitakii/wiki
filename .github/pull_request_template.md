@@ -11,3 +11,4 @@ Closes #XXXX
 <!-- This is a checklist for the reviewers, and will be checked by them! -->
 - [ ] ... Wurde eine gewisse Code-Qualität eingehalten?
 - [ ] ... Stimmen die veränderten oder neu hinzugefügten Informationen?
+- [ ] ... Wurden die Veränderungen getestet?

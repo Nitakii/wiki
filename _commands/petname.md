@@ -1,4 +1,4 @@
 ---
-command: "/petname <Name>"
+command: "/petname {Name}"
 ---
 Benenne dein Haustier.

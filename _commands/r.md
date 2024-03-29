@@ -1,4 +1,4 @@
 ---
-command: "/r <Nachricht>"
+command: "/r {Nachricht}"
 ---
 Antworte auf die letzte Privatnachricht.

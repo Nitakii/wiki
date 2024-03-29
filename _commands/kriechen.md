@@ -1,0 +1,4 @@
+---
+command: "/kriechen"
+---
+Krieche!

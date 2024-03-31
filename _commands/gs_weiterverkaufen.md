@@ -1,5 +1,5 @@
 ---
-command: "/gs weiterverkaufen [Betrag]"
+command: "/gs weiterverkaufen {Betrag}"
 description: "Gib das Grundstück, auf dem du dich gerade befindest, zum Verkauf an andere Spielende frei."
 aliases: ["/grundstück weiterverkaufen","/grundstücke weiterverkaufen"]
 system: gs

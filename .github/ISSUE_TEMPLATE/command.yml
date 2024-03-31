@@ -47,6 +47,5 @@ body:
       options:
         - label: "Der Command wird noch nicht im Wiki aufgeführt."
           required: true
-        -
-          label: "Ich habe auch überprüft, dass der Command nicht bereits über eine andere Pull Request hinzugefügt wird."
+        - label: "Ich habe auch überprüft, dass der Command nicht bereits über eine andere Pull Request hinzugefügt wird."
           required: false

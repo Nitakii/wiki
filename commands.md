@@ -33,7 +33,9 @@ Im Folgenden findet ihr eine Auflistung aller Commands auf Farmlife: Badoras
 			<center>{{ command.description }}</center>
 		</td>
 		<td>
-			<center><pre>{{ command.aliases }}</pre></center>
+			{% for alias in command.aliases %}
+			<pre>{{ alias }}</pre>
+			{% endfor %}
 		</td>
 	</tr>
 	{% endfor %}

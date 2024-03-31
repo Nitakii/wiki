@@ -12,33 +12,7 @@ wichtigsten Befehle auf dem Server mit deutschen Befehlen ersetzt, dennoch
 funktionieren auch die Standard-LWC-Befehle noch.
 
 ## Befehle
-<table>
-	<tr>
-		<th>
-			Command
-		</th>
-		<th>
-			Beschreibung
-		</th>
-		<th>
-			Aliases
-		</th>
-	</tr>
-	{% assign lwc_cmds = site.commands | where: 'system', page.short_name %}
-	{% for command in lwc_cmds %}
-	<tr>
-		<td>
-			<center><pre>{{ command.command }}</pre></center>
-		</td>
-		<td>
-			<center>{{ command.description }}</center>
-		</td>
-		<td>
-			<center><pre>{{ command.aliases }}</pre></center>
-		</td>
-	</tr>
-	{% endfor %}
-</table>
+{% include selected_cmds.md %}
 
 ## Weiterführende Links
 

@@ -45,6 +45,8 @@ body:
       label: "Überprüfung"
       description: "Überprüfe, dass der Command noch nicht im Wiki aufgelistet wird!"
       options:
+        - label: "Alle benötigten Informationen (vgl. ausgefüllte Informationen zuvor) liegen vor."
+          required: false
         - label: "Der Command wird noch nicht im Wiki aufgeführt."
           required: true
         - label: "Ich habe auch überprüft, dass der Command nicht bereits über eine andere Pull Request hinzugefügt wird."

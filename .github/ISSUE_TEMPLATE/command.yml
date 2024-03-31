@@ -20,6 +20,7 @@ body:
         geschweifte Klammern für notwendige Argumente und
         eckige Klammern für optionale Argumente.
       placeholder: "Beispiel: /willkommen [Nachricht]"
+      value: "Verwendung unbekannt."
     validations:
       required: true
   - type: textarea
@@ -28,6 +29,7 @@ body:
       label: "Beschreibung"
       description: "Beschreibe den Command!"
       placeholder: "Beispiel: Mit dem Command kann man eine(n) neue(n) Mitspieler(in) begrüßen. Man kann hierzu optional eine Nachricht anfügen."
+      value: "Details unbekannt."
     validations:
       required: true
   - type: textarea
@@ -36,6 +38,7 @@ body:
       label: "Aliase"
       description: "Nenne Aliase für den Command, falls existent und bekannt."
       placeholder: "Beispiel: /konto ist ein Aliases für /geld"
+      value: "Keine Aliase bekannt."
   - type: checkboxes
     id: notexists
     attributes:

@@ -1,7 +1,7 @@
 name: Command ergänzen
 description: Ergänze einen Command im Wiki!
 title: "[COMMAND] "
-labels: ["enhancement","good first issue"]
+labels: ["documentation","good first issue"]
 body:
   - type: input
     id: command

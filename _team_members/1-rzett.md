@@ -1,8 +1,20 @@
 ---
 name: Rzett
 position: Serverleitung
+responsibilities:
+  - "Serverkonzept"
+  - "Scripts"
+  - "Konfigurationen"
+  - "Ressourcepack"
+  - "Musik"
+  - "Quest-Storylines"
+  - "Grafik"
+  - "Rechtliches"
+  - "Alles, wo niemand sonst explizit feststeht :)"
+contributions:
+  - "Wiki"
 ---
 Langjährige Leitung des ehemals authentischsten Roleplayservers im deutschsprachigen Raum und Gründer des FarmLife-Projekts.
 
-Verantwortet Konzept, Scripts, Konfigurationen, Ressourcepack, Modelle, Musik, Story und Grafik.
-Verantwortlich für alles.
+{% include team_responsibilities.md %}
+{% include team_contributions.md %}

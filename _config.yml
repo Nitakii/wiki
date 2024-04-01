@@ -24,9 +24,15 @@ collections:
   systems:
     permalink: "/:collection/:path/"
     output: true
+  jobs:
+    permalink: "/:collection/:path/"
+    output: true
 
 just_the_docs:
   collections:
     systems:
       name: Systeme
+      nav_fold: true
+    jobs:
+      name: Jobs
       nav_fold: true

@@ -9,8 +9,8 @@ verkaufst sie ihnen anschließend. Je höher dein Joblevel, desto seltener
 passieren dir Missgeschicke und desto höher ist dein Ertrag.
 
 Es gibt zwei Plantagen: Eine im Norden und eine im Osten. Du findest sie mit
-dem [Navi](/commands/navi). Gehe zu einer der beiden Plantagen und sprich mit
-dem Besitzer, um dort aushelfen zu dürfen.
+dem [Navi](/commands/navi) oder auf der [Karte](/commands/karte). Gehe zu einer
+der beiden Plantagen und sprich mit dem Besitzer, um dort aushelfen zu dürfen.
 
 ## Bekannte Events
 

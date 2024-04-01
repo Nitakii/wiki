@@ -11,8 +11,8 @@ Ankaufpreis ändert sich täglich.
 
 Wichtig: In der Mine benötigt man eine eigene Spitzhacke.
 
-Die Mine kannst du mit dem [Navi](/commands/navi) finden. Vor Ort findest du
-weitere Infos.
+Die Mine kannst du mit dem [Navi](/commands/navi) oder auf der
+[Karte](/commands/karte) finden. Vor Ort findest du weitere Infos.
 
 ## Bekannte Events
 

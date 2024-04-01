@@ -9,8 +9,8 @@ zufällig ausgewählt und du erhältst einen zufälligen Betrag als Bezahlung. E
 Lieferauftrag kannst du jederzeit an jedem beliebigen Lieferpunkt auf der Insel
 starten.
 
-Die Lieferpunkte kannst du mit dem [Navi](/commands/navi) finden. Aktuell gibt
-es 10 davon.
+Die Lieferpunkte kannst du mit dem [Navi](/commands/navi) oder auf der
+[Karte](/commands/karte) finden. Aktuell gibt es 10 davon.
 
 Für einen einzelnen Lieferauftrag hast du 5 Minuten Zeit. Informationen zu
 deinem aktuellen Lieferauftrag erhälst du unter [`/paket`](/commands/paket).

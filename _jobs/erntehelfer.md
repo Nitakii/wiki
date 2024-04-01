@@ -22,4 +22,4 @@ Beim Farmen können verschiedene Events auftreten:
 - Die gepflückte Frucht kann vergammelt sein. Du musst sie dann auf den Kompost
   bringen.
 - Die Plantage kann von Insekten befallen sein, dann muss jemand von der
-  Plantage diese für 2 Minuten bekämpfen.
+  Plantage (ein NPC) diese für 2 Minuten bekämpfen.

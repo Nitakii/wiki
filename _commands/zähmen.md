@@ -1,6 +1,6 @@
 ---
 skill-command: "/zähmen"
-description: "Gibt dir eine Aufstellung über deinen aktuellen Fortschritt im Zähmen von Mobs."
+description: "Listet alle aktuellen Informationen über den Skill \"Zähmen\" auf. "
 hinweis: "Mit /info oder /skills kommst du direkt auf die Gesamtübersicht deiner Skills."
 layout: default
 ---

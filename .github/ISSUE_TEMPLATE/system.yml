@@ -1,0 +1,47 @@
+name: Neues System
+description: Ergänze ein neues System im Wiki!
+title: "[SYS] "
+labels: ["documentation"]
+body:
+  - type: input
+    id: command
+    attributes:
+      label: "System"
+      description: |
+        Wie heißt dieses System?
+      placeholder: "Beispiel: Sicherungen"
+    validations:
+      required: true
+  - type: textarea
+    id: short
+    attributes:
+      label: "Überblick"
+      description: "Gib einen kurzen Überblick über das System!"
+      placeholder: "Beispiel: Mit Sicherungen kann man Kisten, Türen und Co. sichern."
+      value: "Details unbekannt."
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: "Beschreibung und wichtige Details"
+      description: "Nenne alle relevanten Infos zu dem System. Das darf gerne so ausfürlich wie möglich sein."
+      value: "Hier Beschreibung ergänzen."
+  - type: textarea
+    id: commands
+    attributes:
+      label: "Zugehörige Commands"
+      description: "Gib an, zu welche Befehle diesem System zugeordnet werden können, falls bekannt und vorhanden."
+      value: "Kein Command bekannt oder vorhanden."
+  - type: checkboxes
+    id: notexists
+    attributes:
+      label: "Überprüfung"
+      description: "Überprüfe, dass das System noch nicht im Wiki aufgelistet wird!"
+      options:
+        - label: "Alle benötigten Informationen (vgl. ausgefüllte Informationen zuvor) liegen vor."
+          required: false
+        - label: "Das System wird noch nicht im Wiki aufgeführt."
+          required: true
+        - label: "Ich habe auch überprüft, dass das System nicht bereits über eine andere Issue oder Pull Request hinzugefügt wird."
+          required: false

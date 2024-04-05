@@ -2,4 +2,4 @@
 name: Rubior
 position: Support-Leitung
 ---
-Langjährige Support-Leitung des ehemals authentischsten Roleplayservers im deutschsprachigen Raum.
+ Langjährige Support-Leitung und ehemalige Server-Koordination für den Bereich Support und Team des ehemals authentischsten Roleplayservers im deutschsprachigen Raum. Ich bin nicht Thor, aber mein Hammer kann bannen! 

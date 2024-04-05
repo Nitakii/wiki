@@ -1,7 +1,7 @@
 ---
-command: "/webseite"
+command: "/website"
 description: "Gibt den Link zur Website aus."
-aliases: ["/homepage"]
+aliases: ["/webseite","/homepage"]
 layout: default
 ---
 {% include command_site.md %}

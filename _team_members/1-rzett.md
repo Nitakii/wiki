@@ -1,5 +1,6 @@
 ---
 name: Rzett
+section: admin
 position: Serverleitung
 responsibilities:
   - "Serverkonzept"
@@ -15,6 +16,3 @@ contributions:
   - "Wiki"
 ---
 Langjährige Leitung des ehemals authentischsten Roleplayservers im deutschsprachigen Raum und Gründer des FarmLife-Projekts.
-
-{% include team_responsibilities.md %}
-{% include team_contributions.md %}

@@ -1,5 +1,6 @@
 ---
 name: motrellin
+section: misc
 position: Genius
 responsibilities:
   - "Technische Queststruktur"
@@ -15,6 +16,3 @@ contributions:
   - "System-Administration"
 ---
 I'm the most important guy you've ever met.
-
-{% include team_responsibilities.md %}
-{% include team_contributions.md %}

@@ -6,33 +6,36 @@ nav_order: 3
 ---
 
 # Alle Teammitglieder
-{% assign pos_Genius = site.team_members | where: 'position', "Genius" %}
-{% for team_member in pos_Genius %}
-  <h2>{{ team_member.name }} - {{ team_member.position }}</h2>
-  {: .text-purple-000 }
-  <p>{{ team_member.content | markdownify }}</p>
+
+{% for team_member in site.team_members %}
+{% if team_member.section == "misc" %}
+{: .text-purple-000 }
+{% endif %}
+{% if team_member.section == "admin" %}
+{: .text-red-300 }
+{% endif %}
+{% if team_member.section == "team" %}
+{: .text-yellow-300 }
+{% endif %}
+{% if team_member.section == "support" %}
+{: .text-blue-000 }
+{% endif %}
+<h2> {{ team_member.name }} - {{ team_member.position }} </h2>
+{{ team_member.content | markdownify }}
+{% if team_member.responsibilities %}
+<b>Verantwortlich für:</b>
+<ul>
+{% for responsibility in team_member.responsibilities %}
+<li> {{ responsibility }} </li>
 {% endfor %}
-{% assign pos_Serverleitung = site.team_members | where: 'position', "Serverleitung" %}
-{% for team_member in pos_Serverleitung %}
-  <h2>{{ team_member.name }} - {{ team_member.position }}</h2>
-  {: .text-red-300 }
-  <p>{{ team_member.content | markdownify }}</p>
+</ul>
+{% endif %}
+{% if team_member.contributions %}
+<b>Beteiligt an:</b>
+<ul>
+{% for contribution in team_member.contributions %}
+<li> {{ contribution }} </li>
 {% endfor %}
-{% assign pos_Moderation = site.team_members | where: 'position', "Moderation" %}
-{% for team_member in pos_Moderation %}
-  <h2>{{ team_member.name }} - {{ team_member.position }}</h2>
-  {: .text-yellow-300 }
-  <p>{{ team_member.content | markdownify }}</p>
-{% endfor %}
-{% assign pos_Support-Leitung = site.team_members | where: 'position', "Support-Leitung" %}
-{% for team_member in pos_Support-Leitung %}
-  <h2>{{ team_member.name }} - {{ team_member.position }}</h2>
-  {: .text-blue-000 }
-  <p>{{ team_member.content | markdownify }}</p>
-{% endfor %}
-{% assign pos_Support = site.team_members | where: 'position', "Support" %}
-{% for team_member in pos_Support %}
-  <h2>{{ team_member.name }} - {{ team_member.position }}</h2>
-  {: .text-blue-000 }
-  <p>{{ team_member.content | markdownify }}</p>
+</ul>
+{% endif %}
 {% endfor %}

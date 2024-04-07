@@ -6,7 +6,9 @@ unsere Spielerschaft gedacht, und darf entsprechend hier mitentwickelt werden.
 Im Folgenden sind ein paar Informationen dazu zu finden, was man dabei sinnvoll
 beachten kann.
 
-## Einbringen von Improvements
+## Allgemeines
+
+### Einbringen von Improvements
 
 Ihr könnt auf [Github](https://github.com/FLBadoras/wiki) einfach Dateien
 abändern. Dabei müsst ihr wahrscheinlich "das Repository forken" und

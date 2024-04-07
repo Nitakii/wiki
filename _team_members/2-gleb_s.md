@@ -1,5 +1,6 @@
 ---
 name: Gleb_S
+section: team
 position: Architekt
 responsibilities:
   - "Großprojekte"

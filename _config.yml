@@ -36,3 +36,8 @@ just_the_docs:
     jobs:
       name: Jobs
       nav_fold: true
+
+callouts:
+  note:
+    title: Note
+    color: blue

@@ -50,7 +50,6 @@ Die Datei sollte nach folgendem Schema benannt werden:
 1. Zunächst eine Ziffer im Sinne des `section`-Eintrages:
 | `section` | Ziffer |
 | ---- | ---- |
-| misc | `0` |
 | admin | `1` |
 | team | `2` |
 | support | `3` |

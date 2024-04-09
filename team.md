@@ -8,9 +8,6 @@ nav_order: 3
 # Alle Teammitglieder
 
 {% for team_member in site.team_members %}
-{% if team_member.section == "misc" %}
-{: .text-purple-000 }
-{% endif %}
 {% if team_member.section == "admin" %}
 {: .text-red-300 }
 {% endif %}

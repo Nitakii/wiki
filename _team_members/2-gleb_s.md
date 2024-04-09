@@ -7,5 +7,3 @@ responsibilities:
   - "Piraterie"
 ---
 Langjähriger Großbauten-Meister und ewiges Teammitglied des ehemals authentischsten Roleplayservers im deutschsprachigen Raum.
-
-{% include team_responsibilities.md %}

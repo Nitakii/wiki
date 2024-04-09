@@ -29,6 +29,29 @@ Lokales Testen ist sehr gerne gesehen, aber kein zwingendes Muss.
 
 ## Spezielle Anforderungen
 
+### Einträge zu Commands
+
+Möchte man einen Command im Wiki auflisten, so ist dies unter `_commands`
+möglich. Dort erstellt man eine Markdown-Datei, die wie der Command heißt, z.B.
+`willkommen.md`. Dabei ist `.md` die Dateiendung für Markdown-Dateien.
+
+Die Datei sollte wie folgt aufgebaut sein:
+```md
+---
+command: #Required, name of the command
+description: #Required, description of the command
+aliases: #Optional, list of aliases for that command
+system: #Optional, names the associated system
+layout: default
+---
+Beschreibung des Commands
+```
+
+Commits sollten mit dem Schlüsselwort `[CMD]` beginnen. Hier ein paar Beispiele:
+- `[CMD] Added /willkommen`: Dieser Commit fügt dem Wiki den Command
+  `/willkommen` hinzu. Die Datei heißt vermutlich willkommen.md
+- `[CMD] Updated /willkommen`: Der Eintrag `willkommen.md` wurde aktualisiert.
+
 ### Einträge zu Teammitgliedern
 
 Einträge zu Teammitgliedern können unter `_team_members` erstellt werden. Eine

@@ -1,18 +1,19 @@
 ---
 name: motrellin
-section: misc
-position: Genius
+section: team
+position: Qualitätssicherungsmanagement
 responsibilities:
   - "Technische Queststruktur"
   - "Wiki"
-  - "Qualitäts-Sicherung"
-  - "Nerven"
-  - "Alles kompliziert machen"
-  - "Zu allem seinen Senf dazugeben"
-  - "Freundlich formuliert: Bei allem beraten"
-  - "Gelb sein"
+  - "Beratung/Unterstützung bei verschiedensten Themen"
 contributions:
   - "Quest-Storylines"
   - "System-Administration"
 ---
-I'm the most important guy you've ever met.
+Hier ein paar zufällige und unvollständie _Infos_ über mich:
+- Leitung des ehemals authentischsten Roleplayservers im deutschsprachigen Raum.
+- [Coq](https://coq.inria.fr)-Entusiast.
+- [Free](https://www.fsf.org/about/what-is-free-software) & [Open](https://opensource.org/osd) Software Lover.
+
+Zum Schluss noch ein _Zitat_ (Quelle bekannt?):
+> "Life is just a game, we play together. You should try to enjoy it."

@@ -8,7 +8,7 @@ layout: default
 Du benötigst zum Überleben Speisen und Getränke, die du dir zum Beispiel im
 _Supermarkt Foodoras_ kaufen kannst. Mit den richtigen Rezepten kannst du aber
 auch alle davon selbst herstellen (bis auf alkoholische Getränke). Dir stehen
-fast 400 Rezepte zur Verfügung!
+über 300 Rezepte zur Verfügung!
 
 ## Rezepte
 

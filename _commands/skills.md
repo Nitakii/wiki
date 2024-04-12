@@ -1,5 +1,6 @@
 ---
 command: "/skills"
+system: skills
 description: "Übersicht über alle Skills, deren Fortschritte und Inhalte."
 layout: default
 ---

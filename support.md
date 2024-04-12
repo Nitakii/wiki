@@ -7,8 +7,8 @@ nav_order: 4
 # Support
 
 Du kommst einmal nicht weiter, trotz aller Informationen im Wiki oder unter
-`/hilfe`? Kein Problem, dafür ist unser kompetentes Support-Team gerne zur
-Stelle.
+`/hilfe`? Kein Problem, dafür steht dir unser kompetentes Support-Team gerne zur
+Seite.
 
 Nebenbei haben unsere Supporter auch die Aufgabe, über die Einhaltung des
 Regelwerks zu wachen. Hierbei kommt ein spezielles Punktesystem zur Geltung.

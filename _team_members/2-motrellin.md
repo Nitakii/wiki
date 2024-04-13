@@ -1,7 +1,7 @@
 ---
 name: motrellin
 section: team
-position: Qualitätssicherungsmanagement
+position: Qualitätssicherungsmanager
 responsibilities:
   - "Technische Queststruktur"
   - "Wiki"

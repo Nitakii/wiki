@@ -20,7 +20,7 @@ Rezepte kann man auf (mindestens) zwei Arten bekommen:
 Das Erforschen von Rezepten kann zeitintensiv sein, lass dich also nicht
 entmutigen, wenn deine Forschungen nicht erfolgreich sind!
 
-Hast du Rezepte erfolreich erlernt hast, kannst du sie jederzeit per
+Hast du Rezepte erfolreich von einem NPC erlernt, kannst du sie jederzeit per
 **[/info](/commands/info)** einsehen. Außerdem werden erlernte Rezepte im
 **Standard-Minecraft-Rezeptbuch** angezeigt.
 

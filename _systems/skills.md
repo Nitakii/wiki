@@ -19,6 +19,9 @@ Baumfäller-Skill, fällst du Bäume mit einem Klick oder erhältst doppelt so v
 Baumstämme als sonst. Eine Übersicht über deine Skills findest du unter
 **[/info](/commands/info)** oder **[/skills](/commands/skills)**.
 
+## Befehle
+{% include selected_cmds.md %}
+
 ## Weiterführende Links
 
 Hier geht es zu einer [mcMMO-Skill-Übersicht (auf

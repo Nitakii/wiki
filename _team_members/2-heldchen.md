@@ -1,7 +1,7 @@
 ---
 name: Heldchen
 section: team
-position: Moderation
+position: Moderatorin
 responsibilities:
   - "Architektur"
   - "NPC-Skins"

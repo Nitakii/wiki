@@ -1,7 +1,7 @@
 ---
 name: Gleb_S
 section: team
-position: Architektur
+position: Architekt
 responsibilities:
   - "Großprojekte"
   - "Piraterie"

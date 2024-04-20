@@ -10,12 +10,27 @@ Du kommst einmal nicht weiter, trotz aller Informationen im Wiki oder unter
 `/hilfe`? Kein Problem, dafür steht dir unser kompetentes Support-Team gerne zur
 Seite.
 
-Nebenbei haben unsere Supporter auch die Aufgabe, über die Einhaltung des
+Nebenbei hat unser Support auch die Aufgabe, über die Einhaltung des
 Regelwerks zu wachen. Hierbei kommt ein spezielles Punktesystem zur Geltung.
+
+## Helfer
+
+Die Hemmschwelle ist zu groß, den Support zu kontaktieren und du kommst
+einmal nicht weiter und brauchst schnell greifbare und kompetente Hilfe?
+
+Dann kannst du hierfür unsere Helfer\*innen aufsuchen.
+Sie beantworten viele deiner Fragen und unterstützen dich gerne mit all ihrer
+Erfahrung und ihrem Wissen.
+
+Mit ein paar netten Worten verraten sie vielleicht
+auch dir ihre Tipps und Tricks, um im Spiel gut voranzukommen.
+
+**Wichtig**: Bei Regelverstößen und Fragen, die über das simple Spielerlebnis
+hinausgehen, kann _nur_ der Support selbst helfen.
 
 ## Kontaktmöglichkeiten
 
-Unser Support kann auf verschiedenen Wegen erreicht werden:
+Hilfe kannst du auf verschiedenen Wegen erhalten:
 - Auf [Discord](https://discord.gg/Fx2pUMCejP) per Community-Support.
 - Auf [Discord](https://discord.gg/T9HEBpGazE) per Ticket.
 - Ingame; mehr Informationen hierzu folgen noch.

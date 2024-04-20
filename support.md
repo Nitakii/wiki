@@ -31,9 +31,9 @@ Regelverstöße können mit sogenannten Verwanungspunkten geahndet werden. Unser
 Punktesystem hat eine variable Spanne, wobei wir uns hier aber grundsätzlich nach einem vordefiniertem
 internen Richtwert orienterieren. Es kommen folgende Limite für unsere Verwarnungspunkte zur Geltung: 
 
-- Bei einer aktiven Punktzahl von 50 Punkten gibt es eine mündliche Verwarnung in einem persönlichen Gespräch
-- Bei einer aktiven Punktzahl von 70 Punkten gibt es einen 24h Ban
-- Bei einer aktiven Punktzahl von 100 Punkten gibt es einen permanenten Ban
+- Bei einer aktiven Punktzahl von 50 Punkten gibt es eine mündliche Verwarnung in einem persönlichen Gespräch.
+- Bei einer aktiven Punktzahl von 70 Punkten gibt es einen 24h Ban.
+- Bei einer aktiven Punktzahl von 100 Punkten gibt es einen permanenten Ban.
 
 Verwarnungen haben generell ein Ablaufdatum von 4 Monaten. 
 

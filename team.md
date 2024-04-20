@@ -10,12 +10,12 @@ nav_order: 3
 {% for team_member in site.team_members %}
 {% if team_member.section == "admin" %}
 {: .text-red-300 }
-{% endif %}
-{% if team_member.section == "team" %}
+{% elsif team_member.section == "team" %}
 {: .text-yellow-300 }
-{% endif %}
-{% if team_member.section == "support" %}
+{% elsif team_member.section == "support" %}
 {: .text-blue-000 }
+{% else %}
+{% continue %}
 {% endif %}
 <h2> {{ team_member.name }} - {{ team_member.position }} </h2>
 {{ team_member.content | markdownify }}

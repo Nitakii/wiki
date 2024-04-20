@@ -52,11 +52,13 @@ internen Richtwert orienterieren. Es kommen folgende Limite für unsere Verwarnu
 
 Verwarnungen haben generell ein Ablaufdatum von 4 Monaten. **Achtung**: Ein permanenter Ban wird natürlich _nicht_ entfernt, weil eine Verwarnung nach 4 Monaten abgelaufen ist. Schließlich ist der Ban permanent!
 
-## Unser Support-Team
+## Unser Support- und Helfenden-Team
 
 {% for team_member in site.team_members %}
 {% if team_member.section == "support" %}
 {: .text-blue-000 }
+{% elsif team_member.section == "help" %}
+{: .text-grey-dk-000 }
 {% else %}
 {% continue %}
 {% endif %}

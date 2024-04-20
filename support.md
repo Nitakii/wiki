@@ -35,7 +35,7 @@ internen Richtwert orienterieren. Es kommen folgende Limite für unsere Verwarnu
 - Bei einer aktiven Punktzahl von 70 Punkten gibt es einen 24h Ban.
 - Bei einer aktiven Punktzahl von 100 Punkten gibt es einen permanenten Ban.
 
-Verwarnungen haben generell ein Ablaufdatum von 4 Monaten. 
+Verwarnungen haben generell ein Ablaufdatum von 4 Monaten. **Achtung**: Ein permanenter Ban wird natürlich _nicht_ entfernt, weil eine Verwarnung nach 4 Monaten abgelaufen ist. Schließlich ist der Ban permanent!
 
 ## Unser Support-Team
 

@@ -76,6 +76,7 @@ Die Datei sollte nach folgendem Schema benannt werden:
 | admin | `1` |
 | team | `2` |
 | support | `3` |
+| help | `4` |
 2. Der Ziffer folgt ein Bindestrich...
 3. ... sowie der Name des Teammitglieds.
 4. Anschließend muss man noch die Dateiendung `.md` ergänzen.

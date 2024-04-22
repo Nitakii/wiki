@@ -33,9 +33,8 @@ hinausgehen, kann _nur_ der Support selbst helfen.
 Unser Support kann auf verschiedenen Wegen erreicht werden:
 - Auf unserem Discord findest du den Channel "#fragen-und-hilfe" im Bereich Support. 
 - Auf unserem Discord findest du den Channel "#supportticket" im Bereich support. 
-- Ingame kannst du den Befehl /h nutzen. Hiermit setzt du den Channel "Hilfe" permanent für dich aktiv und kannst darin schreiben. 
-  - Du hast ebenfalls die Möglichkeit, eine einzelne Nachricht in diesen Channel zu schreiben, ohne 
-    aktiv deinen bisherigen Channel zu wechseln mithilfe des Befehl /h [Nachricht]. 
+- Ingame kannst du den Befehl [`/h`](/commands/h) nutzen. Mehr Informationen
+  hierzu findest du [hier](/systems/chat/#hilfe-chat).
 
 {: .note }
 Generell empfiehlt es sich, erst die Möglichkeiten des Communitysupports zu

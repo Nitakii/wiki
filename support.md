@@ -30,10 +30,11 @@ hinausgehen, kann _nur_ der Support selbst helfen.
 
 ## Kontaktmöglichkeiten
 
-Hilfe kannst du auf verschiedenen Wegen erhalten:
-- Auf [Discord](https://discord.gg/Fx2pUMCejP) per Community-Support.
-- Auf [Discord](https://discord.gg/T9HEBpGazE) per Ticket.
-- Ingame; mehr Informationen hierzu folgen noch.
+Unser Support kann auf verschiedenen Wegen erreicht werden:
+- Auf unserem Discord findest du den Channel "#fragen-und-hilfe" im Bereich Support. 
+- Auf unserem Discord findest du den Channel "#supportticket" im Bereich Support. 
+- Ingame kannst du den Befehl [`/h`](/commands/h) nutzen. Mehr Informationen
+  hierzu findest du [hier](/systems/chat/#hilfe-chat).
 
 {: .note }
 Generell empfiehlt es sich, erst die Möglichkeiten des Communitysupports zu

@@ -18,3 +18,6 @@ Oder stöbere einfach im _Menü_ durch unsere Seiten!
 Falls du einmal doch nicht deine Frage selbst beantwortet bekommst, kein
 Problem: Wende dich doch einfach an unseren Support auf
 [Discord](https://discord.gg/RYGM6wprRk)!
+
+Und ganz wichtig: Falls du das Wiki wiederfinden musst: Nutze doch einfach
+[`/wiki`](/commands/wiki) ingame!

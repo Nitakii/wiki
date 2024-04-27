@@ -24,6 +24,9 @@ creatures:
 Viele verschiedene Wesen können z.B. am Hafen geangelt werden. Im Folgenden
 entsteht eine Liste an geangelten Wesen, die gerne erweitert werden darf.
 
+{: .contributing }
+Die Meereswesen werden alphabetisch sortiert, bitte beim Ergänzen beachten!
+
 <table>
 	<tr>
 		<th>

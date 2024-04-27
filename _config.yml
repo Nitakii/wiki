@@ -41,3 +41,6 @@ callouts:
   note:
     title: Note
     color: blue
+  contributing:
+    title: Contributing
+    color: yellow

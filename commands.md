@@ -12,6 +12,11 @@ Im Folgenden findet ihr eine Auflistung aller Commands auf Farmlife: Badoras
 - Notwendige Argumente werden mit geschweiften Klammern dargestellt. Bsp.: `{Argument}`
 - Optionale Argumente werden mit eckigen Klammern dargestellt. Bsp.: `[Argument]`
 
+{: .contributing }
+Weitere Commands können unter
+[`_commands`](https://github.com/FLBadoras/wiki/tree/main/_commands) ergänzt
+werden!
+
 <table>
 	<tr>
 		<th>

@@ -21,3 +21,9 @@ Problem: Wende dich doch einfach an unseren Support auf
 
 Und ganz wichtig: Falls du das Wiki wiederfinden musst: Nutze doch einfach
 [`/wiki`](/commands/wiki) ingame!
+
+{: .contributing }
+Das gesamte Wiki ist [Open Source](https://opensource.org/osd), den Source Code
+kann man [hier](https://github.com/FLBadoras/wiki) finden. Mitgestalten ist
+gerne gesehen! Falls jemand Hilfe braucht, meldet euch einfach [bei
+uns](/support)!

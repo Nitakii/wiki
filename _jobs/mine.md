@@ -22,3 +22,5 @@ können:
 - Eine agressive Spinne kann hinter einem Stein erscheinen.
 - Du kannst die Höhlenkrankheit bekommen, wegen der du die Arbeit pausieren
   musst. Hoffentlich passiert nichts schlimmeres...
+
+{% include more_events.md %}

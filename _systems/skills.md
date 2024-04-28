@@ -26,3 +26,7 @@ Baumstämme als sonst. Eine Übersicht über deine Skills findest du unter
 
 Hier geht es zu einer [mcMMO-Skill-Übersicht (auf
 Englisch)](https://wiki.mcmmo.org/skills).
+
+{: .contributing }
+Es bietet sich an, eine vereinfachte Liste für unseren Server hier
+niederzuschreiben.

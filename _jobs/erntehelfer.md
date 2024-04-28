@@ -23,3 +23,5 @@ Beim Farmen können verschiedene Events auftreten:
   bringen.
 - Die Plantage kann von Insekten befallen sein, dann muss jemand von der
   Plantage (ein NPC) diese für 2 Minuten bekämpfen.
+
+{% include more_events.md %}

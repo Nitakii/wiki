@@ -18,3 +18,5 @@ deinem aktuellen Lieferauftrag erhälst du unter [`/paket`](/commands/paket).
 ## Bekannte Events
 
 Aktuell sind keine Events bekannt, die hierbei auftreten können.
+
+{% include more_events.md %}

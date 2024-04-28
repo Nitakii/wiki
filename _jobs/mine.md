@@ -22,5 +22,11 @@ können:
 - Eine agressive Spinne kann hinter einem Stein erscheinen.
 - Du kannst die Höhlenkrankheit bekommen, wegen der du die Arbeit pausieren
   musst. Hoffentlich passiert nichts schlimmeres...
+- Beim malochen in der Mine kannst du ausrutschen und dich verletzen, der Vorarbeiter ist bestimmt gehilflich.
+- Überarbeite dich und vorallem deine Spitzhacke nicht, diese muss gekühlt werden.
+- In der Höhle treiben sich Moskitos rum. RENN!
+- Man kann hinter Steinen Fossile finden, gib diese ab.
+- Leute verlieren allerlei Sachen hinter den Steinen, was man nur finden kann...
+
 
 {% include more_events.md %}

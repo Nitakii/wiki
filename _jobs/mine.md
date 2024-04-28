@@ -26,6 +26,7 @@ können:
 - Überarbeite dich und vorallem deine Spitzhacke nicht, diese muss gekühlt werden.
 - In der Höhle treiben sich Moskitos rum. RENN!
 - Man kann hinter Steinen Fossile finden, gib diese ab.
+- Auch Blumen wachsen in den Höhlen, verwechsel diese nicht mit Rubinen
 - Leute verlieren allerlei Sachen hinter den Steinen, was man nur finden kann...
 
 
